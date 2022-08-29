@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Mubassira's home page</title>
+  </head>
+  <body>
+    <center>
+  <table border="1" alt="right" width="40%">
+    <tr>
+  <td>Name</td>
+  <td> : </td>
+  <td>Mubassira Tabassum</td>
+  <td rowspan="10"> <img src="" height="230" weight="150" alt="Mubassira"/> </td>
+</tr>
+<tr>
+   <td> Profession</td>
+   <td> : </td>
+   <td>Student</td>
+ </tr>
+ <tr>
+    <td>Nationality</td>
+    <td> : </td>
+    <td>Bangladeshi</td>
+  </tr>
+ <tr>
+   <td>Date of birth</td>
+   <td> : </td>
+   <td>09-09-2002</td>
+ </tr>
+ <tr>
+   <td>Religion</td>
+   <td> : </td>
+   <td>Islam</td>
+ </tr>
+ <tr>
+   <td>Marital Status</td>
+   <td> : </td>
+   <td>Unmarried</td>
+ </tr>
+ <tr>
+   <td>Permanent Address</td>
+   <td> : </td>
+   <td>Mirsarai,Chattogram</td>
+ </tr>
+ <tr>
+   <td>Mobile No.</td>
+   <td> : <td>
+   <td>01824******</td>
+ </tr>
+ <tr>
+   <td>Email</td>
+   <td> : </td>
+   <td><a href="e221211@ugrad.iiuc.ac.bd"></a></td>
+ </tr>
+
+  I am Mubassira.I am a student of IIUC
+</p>
+ <h3><a href="E:\web development\html personal site\contact me"</h3>
+  <hr>
+  <h2>Educational Qualification</h2>
+  <ol>
+ <h3> <li>
+     School:Jorargonj Buddha High School
+     College:BMS Girl's School & College
+     </li> </h3>
+
+      <h2>Hobbies</h2>
+      <h3>Travelling,Cooking,Shopping</h3>
+
+ </li></h3>
+</ol> </hr>
+  </table>
+  </body>
+</html>
